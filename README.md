@@ -6,7 +6,7 @@ At this days everybody needs a password for everything, and we know, repeat your
 Now you have a simple way to do it. Get EXLUSIVE passwords with 6 or 8 
 characters , include uppercase, lowercase and specials chars.
 
-##url: Soon! :)
+## url: Soon! :)
 
 
 
