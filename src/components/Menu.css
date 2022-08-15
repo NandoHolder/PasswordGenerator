@@ -1,0 +1,38 @@
+.menu{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.menu p{
+    font-size:small;
+    margin-bottom: 30px;
+}
+.itensMenu{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+   
+}
+
+.six{
+    display: flex;
+    flex-direction: column;  
+    font-size:small;
+   }
+
+ 
+.eight{
+    display: flex;
+    flex-direction: column;
+    font-size:small;
+}
+
+
+@media (max-width:370px ) {
+  
+    .menu p{
+        font-size:12px;
+        margin-bottom: 30px;
+    }
+  
+   }
